@@ -1,4 +1,4 @@
-## Sentiment Analysis of Yelp Dataset Challenge 2018
+## Sentiment Analysis for Yelp Dataset Challenge 2018
 
 Link to Challenge: https://www.yelp.com/dataset/challenge
 
