@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Sentiment Analysis of Yelp Dataset Challenge 2018
 
-You can use the [editor on GitHub](https://github.com/vivabrian/YelpDataset/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Link to Challenge: https://www.yelp.com/dataset/challenge
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
