@@ -7,7 +7,7 @@ The link to the relevant datasets can be found [here.](https://www.yelp.com/data
 
 For this analysis, the reviews dataset was primarily relevant to restaurants (Chinese, Italian, Mexican, etc.). For generalization to other datasets, the datasets for other types of services were used, including hair salons, home and garden, and bank & credit unions.
 
-## Preprocessing
+## Data Preprocessing
 
 1. Removed reviews with 3 stars as they are neutral and doing this has improved accuracy across all of our analysis.
 Clean and tokenize the reviews into list of words.
