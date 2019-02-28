@@ -10,7 +10,6 @@ For this analysis, the reviews dataset was primarily relevant to restaurants (Ch
 ## Data Preprocessing
 
 1. Removed reviews with 3 stars as they are neutral and doing this has improved accuracy across all of our analysis.
-Clean and tokenize the reviews into list of words.
 2. Removed common words from the reviews.
 3. Added the sentiment column to classify a review as positive (4 or 5 stars) or negative (1 or 2 stars).
 4. All lowercase, remove punctuations in the text column.
